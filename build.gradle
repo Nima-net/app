@@ -82,6 +82,11 @@ project.ext.react = [
     enableHermes: false,  // clean and rebuild if changing
 ]
 
+
+//for react-native-vector-icons
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+//for react-native-vector-icons
+
 apply from: "../../node_modules/react-native/react.gradle"
 
 /**
