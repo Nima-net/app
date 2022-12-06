@@ -7,6 +7,5 @@ proguard-rules.pro
 src/debug
 src/main/java
 src/main/jni
-src/main/AndroidManifest.xml
 src/main/res/drawable/rn_edit_text_material.xml
 src/main/res/values/styles.xml
