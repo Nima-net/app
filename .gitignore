@@ -2,7 +2,7 @@ build
 _BUCK
 build_defs.bzl
 debug.keystore
-my-upload-key.keystore
+ScarletSecond.keystore
 proguard-rules.pro
 src/debug
 src/main/java
